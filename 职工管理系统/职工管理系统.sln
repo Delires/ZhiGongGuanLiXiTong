@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "职工管理系统", "职工管理系统\职工管理系统.vcxproj", "{09813CF6-6129-48DA-80A7-937CEB5A919D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\职工管理系统setup\Setup1\Setup1.vdproj", "{9204F636-3119-4241-A9BE-E13B7A407D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09813CF6-6129-48DA-80A7-937CEB5A919D}.Debug|x64.ActiveCfg = Debug|x64
+		{09813CF6-6129-48DA-80A7-937CEB5A919D}.Debug|x64.Build.0 = Debug|x64
+		{09813CF6-6129-48DA-80A7-937CEB5A919D}.Debug|x86.ActiveCfg = Debug|Win32
+		{09813CF6-6129-48DA-80A7-937CEB5A919D}.Debug|x86.Build.0 = Debug|Win32
+		{09813CF6-6129-48DA-80A7-937CEB5A919D}.Release|x64.ActiveCfg = Release|x64
+		{09813CF6-6129-48DA-80A7-937CEB5A919D}.Release|x64.Build.0 = Release|x64
+		{09813CF6-6129-48DA-80A7-937CEB5A919D}.Release|x86.ActiveCfg = Release|Win32
+		{09813CF6-6129-48DA-80A7-937CEB5A919D}.Release|x86.Build.0 = Release|Win32
+		{9204F636-3119-4241-A9BE-E13B7A407D69}.Debug|x64.ActiveCfg = Debug
+		{9204F636-3119-4241-A9BE-E13B7A407D69}.Debug|x86.ActiveCfg = Debug
+		{9204F636-3119-4241-A9BE-E13B7A407D69}.Release|x64.ActiveCfg = Release
+		{9204F636-3119-4241-A9BE-E13B7A407D69}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BED93B7-1C2E-408F-831F-B07009092C34}
+	EndGlobalSection
+EndGlobal
